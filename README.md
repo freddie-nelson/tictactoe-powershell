@@ -2,6 +2,8 @@
 
 TicTacToe written entirely in PowerShell with no external dependencies.
 
+https://user-images.githubusercontent.com/47699795/229154633-0299bdd3-2b65-477f-a687-0f323fc2aa39.mp4
+
 ## Features
 
 - Basic Terminal UI
